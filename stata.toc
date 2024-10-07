@@ -1,0 +1,9 @@
+v 0.1
+d Materials by Dave Armstrong
+d Western University
+d davearmstrong.ps@gmail.com
+d https://github.com/davidaarmstrong/uwo_9592
+
+d 'uwo9592': Utility functions for post-estimation analysis
+
+p uwo_9592
