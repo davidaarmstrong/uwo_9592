@@ -28,3 +28,4 @@ program compare_cv
 	local p2b = p_2_better
 	dis ""
 	dis "Pr(Model 2 > Model 1) = `p2b'"
+end
