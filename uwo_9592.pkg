@@ -1,0 +1,27 @@
+d 'uwo_9592': Module for POLSCI 9592: Maximum Likelihood at Western University
+d
+d This package contains some auxiliary functions that replicate functionality 
+d that exists in R.  These are generally post-estimation functions for GLMs, 
+d linear models as well as ordered and multinomial logit and probit.  
+d
+d KW: Generalized Linear Models
+d KW: Maximum Likelihood Estimation
+d KW: Post-estimation functions
+d KW: Regression Diagnostics
+d
+d Requires: Stata version >= 16
+d
+d Distribution-Date: 20241007
+d
+d Author: Dave Armstrong, Western University, London, ON, Canada
+d Support: email davearmstrong.ps@gmail.com
+d
+f changeSig.ado
+f changeSig.sthlp
+f clarke_binary.ado
+f clark_binary.sthlp
+f compare_cv.ado
+f compare_cv.sthlp
+f IC_delta.ado
+f IC_delta.sthlp
+f 
